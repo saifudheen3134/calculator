@@ -1,0 +1,48 @@
+.Container{
+    width: 355px;
+    height: 459px;
+ 
+    padding-top: 32px;
+    background-color: black;
+    color: white;
+    margin-left: 63px;
+    margin-top: 40px;
+}
+
+#screen{
+    margin-left: 27px;
+    width: 291px;
+    height: 35px;
+    pointer-events: none;
+
+}
+
+.btn{
+    width: 52px;
+    height: 30px;
+    margin-left: 26px;
+    margin-top: 30px;
+    border: solid;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+
+.rect{
+    background-color: black;
+    border: solid white;
+    margin-top: 33px;
+    width: 234px;
+    margin-left: 53px;
+    height: 56px;
+}
+
+.name{
+    margin-top: 9px;
+    margin-left: 4px;
+}
+body{
+    padding-left: 516px;
+    padding-top: 58px;
+}
+
